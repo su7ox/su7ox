@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @su7ox
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Java Script
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Mukul
+- 👀 I’m interested in DSA
+- 🌱 I’m currently learning DSA
+- 💞️ I’m looking to collaborate on real world project ideas which solves daily world problems
 - 📫 How to reach me ...
 - l4zarfps@gmail.com
 <!---
