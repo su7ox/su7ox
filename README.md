@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mukul
-- 👀 I’m interested in DSA
+- 👀 I’m interested in DSA and Development
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on real world project ideas which solves daily world problems
 - 📫 How to reach me ...
