@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mukul
+- 👋 Hi, I’m Manish
 - 👀 I’m interested in DSA and Development
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on real world project ideas which solves daily world problems
